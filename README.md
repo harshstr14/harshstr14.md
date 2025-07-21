@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Android developer</h3>
 
 - 🌱 I’m currently learning **Android Development in kotlin**
-
+- 📱 Learning to build functional Android apps using **Kotlin** and **Jetpack**
+- 🚀 Currently exploring **Firebase**, **UI/UX design**, and best coding practices
 - 📫 How to reach me **harshsuthar9672@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
