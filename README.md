@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Suthar</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A Beginner Android developer</h3>
 
 - 🌱 I’m currently learning **Android Development in kotlin**
 - 📱 Learning to build functional Android apps using **Kotlin** and **Jetpack**
